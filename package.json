@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "Proyecto final DevOps con tienda online",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "jest": "26.0.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  }
+}

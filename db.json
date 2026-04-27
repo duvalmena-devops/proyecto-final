@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop Gamer RTX 4060",
+      "precio": 1450,
+      "detalle": "Intel Core i7, 16GB RAM, SSD 1TB"
+    },
+    {
+      "id": 2,
+      "nombre": "PC Oficina Ryzen 5",
+      "precio": 680,
+      "detalle": "Ryzen 5, 16GB RAM, SSD 512GB"
+    },
+    {
+      "id": 3,
+      "nombre": "Mouse Inalámbrico Pro",
+      "precio": 28,
+      "detalle": "Sensor óptico, 6 botones, batería recargable"
+    },
+    {
+      "id": 4,
+      "nombre": "Audífonos RGB",
+      "precio": 65,
+      "detalle": "Sonido envolvente, micrófono integrado"
+    },
+    {
+      "id": 5,
+      "nombre": "Tarjeta de Video RTX 4070",
+      "precio": 720,
+      "detalle": "12GB GDDR6X, DLSS, Ray Tracing"
+    }
+  ],
+  "categorias": [
+    { "id": 1, "nombre": "Computadoras" },
+    { "id": 2, "nombre": "Periféricos" },
+    { "id": 3, "nombre": "Componentes" },
+    { "id": 4, "nombre": "Audio" }
+  ]
+}
